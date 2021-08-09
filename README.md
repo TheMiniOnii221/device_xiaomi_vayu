@@ -1,4 +1,4 @@
-Copyright (C) 2021 ArrowOS
+Copyright (C) 2021 Octavi OS
 
 Device configuration for Poco X3 Pro
 =========================================
