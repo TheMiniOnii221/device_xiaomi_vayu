@@ -13,8 +13,8 @@ $(call inherit-product, device/xiaomi/vayu/device.mk)
 
 # Inherit common Octavi OS configurations
 $(call inherit-product, vendor/octavi/config/common_full_phone.mk)
-OCTAVI_BUILD_TYPE := Official
-OCTAVI_DEVICE_MAINTAINER := chdelacr
+OCTAVI_BUILD_TYPE := Unofficial
+OCTAVI_DEVICE_MAINTAINER := TheMiniOnii
 TARGET_FACE_UNLOCK_SUPPORTED := true
 WITH_GAPPS := true
 
